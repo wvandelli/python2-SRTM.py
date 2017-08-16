@@ -1,0 +1,16 @@
+pkgbase = python2-SRTM.py
+	pkgdesc = Python parser for the Shuttle Radar Topography Mission elevation data
+	pkgver = 0.3.2
+	pkgrel = 1
+	url = https://github.com/tkrajina/srtm.py
+	arch = any
+	license = Apache
+	makedepends = python2-setuptools
+	depends = python2
+	depends = python2-gpxpy
+	options = !emptydirs
+	source = https://files.pythonhosted.org/packages/source/S/SRTM.py/SRTM.py-0.3.2.tar.gz
+	sha256sums = 08ae42de3e2b76517a476038dfa4078eaff9bf47ed7406d59b630d0af96c842c
+
+pkgname = python2-SRTM.py
+
